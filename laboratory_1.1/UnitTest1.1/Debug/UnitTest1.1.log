@@ -1,0 +1,3 @@
+﻿  UnitTest1.1.cpp
+D:\Нова папка\laboratory_1.1\UnitTest1.1\UnitTest1.1.cpp(20,13): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  UnitTest1.1.vcxproj -> D:\Нова папка\laboratory_1.1\Debug\UnitTest1.1.dll

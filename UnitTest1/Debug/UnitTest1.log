@@ -1,0 +1,6 @@
+﻿  pch.cpp
+  UnitTest1.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt_math_defines.h(22,1): warning C4005: 'M_PI': macro redefinition
+D:\Нова папка\laboratory_1.2\Angle.h(5): message : see previous definition of 'M_PI'
+     Creating library D:\Нова папка\laboratory_1.2\Debug\UnitTest1.lib and object D:\Нова папка\laboratory_1.2\Debug\UnitTest1.exp
+  UnitTest1.vcxproj -> D:\Нова папка\laboratory_1.2\Debug\UnitTest1.dll
